@@ -1,0 +1,11 @@
+{
+    "name": "myles/packagist-test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Myles Forrest",
+            "email": "lunaetic@lunaecy.com"
+        }
+    ],
+    "require": {}
+}
